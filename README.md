@@ -36,6 +36,7 @@ If you cannot find suitable test data on this repository, please contact us on t
   * db
     * 'kraken2': kraken2 DB
     * 'kraken2.tar.gz': kraken2 DB archive
+    * 'augustus.tar.gz': AUGUSTUS "eukaryotic" gene prediction model for MT192765.1 genome, archived
   * genome
     * 'genome.fasta': MT192765.1 genomem including (GCA_011545545.1_ASM1154554v1)
     * 'genome.dict': GATK dict for 'genome.fasta'
