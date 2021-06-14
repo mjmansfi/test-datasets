@@ -40,6 +40,7 @@ If you cannot find suitable test data on this repository, please contact us on t
     * 'genome.fasta': MT192765.1 genomem including (GCA_011545545.1_ASM1154554v1)
     * 'genome.dict': GATK dict for 'genome.fasta'
     * 'genome.fasta.fai': fasta index for 'genome.fasta'
+    * 'genome.genbank': genbank file for MT192765.1 genome
     * 'transcriptome.fasta': coding sequencing from MT192765.1 genome (transcripts)
     * 'transcriptome.paf': PAF file for MT192765.1  genome
     * 'genome.gtf': GTF for MT192765.1 genome
@@ -81,7 +82,7 @@ If you cannot find suitable test data on this repository, please contact us on t
       * 'test.sorted.bam'
       * 'test.sorted.bam.bai'
     * fast5
-      * 'fast5.tar.gz': compressed `fast5` folder with the following structure: `fast5/100read_fast5/*.fast5` 
+      * 'fast5.tar.gz': compressed `fast5` folder with the following structure: `fast5/100read_fast5/*.fast5`
     * fastq
       * 'test.fastq.gz'
     * sequencing_summary
