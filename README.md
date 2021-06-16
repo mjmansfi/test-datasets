@@ -36,9 +36,9 @@ If you cannot find suitable test data on this repository, please contact us on t
   * db
     * 'kraken2': kraken2 DB
     * 'kraken2.tar.gz': kraken2 DB archive
-    * 'augsutus': folder with two archives related to AUGUSTUS tools
-    * 'full_augustus_config.tar.gz': an archive containing a "full" AUGUSTUS config (contains all default AUGUSTUS config subdirectories, `cgp`, `extrinsic`, `model`, `profile`, and `species` with a handful of species models)
-    * 'sars_cov_2.species.tar.gz': an archive containing just one AUGUSTUS species model, trained for SARS-CoV-2
+    * 'augustus': folder with two archives related to AUGUSTUS tools
+    * 'config.tar.gz': an archive containing a "full" AUGUSTUS config (contains all default AUGUSTUS config subdirectories, `cgp`, `extrinsic`, `model`, `profile`, and `species` with a handful of species models)
+    * 'sars_cov_2.tar.gz': an archive containing just one AUGUSTUS species model, trained for SARS-CoV-2
   * genome
     * 'genome.fasta': MT192765.1 genomem including (GCA_011545545.1_ASM1154554v1)
     * 'genome.dict': GATK dict for 'genome.fasta'
